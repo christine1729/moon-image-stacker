@@ -43,7 +43,7 @@ Moon Image Stacker is a Python-based tool designed to enhance astrophotography i
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/moon-image-stacker.git
+   git clone https://github.com/christine1729/moon-image-stacker.git
    cd moon-image-stacker
    ```
 
